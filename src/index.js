@@ -1,5 +1,7 @@
 import React from 'react';
+//react it self 
 import ReactDOM from 'react-dom';
+//react for web dev
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
